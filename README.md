@@ -1,4 +1,4 @@
-# TBM Brain
+# TBM Recommender
 
 A searchable index of ~440 posts from John Cutler's [The Beautiful Mess](https://cutlefish.substack.com/) newsletter, packaged as an [open SKILL.md](https://agentskills.io/) for AI coding agents.
 
