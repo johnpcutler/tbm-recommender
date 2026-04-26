@@ -17,6 +17,7 @@ posts.csv
 posts.json
 
 # One-off scripts and debug output
+add_post.sh
 delete_post_event_csvs.py
 classification_review.md
 concepts.json
