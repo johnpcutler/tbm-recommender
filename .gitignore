@@ -24,6 +24,7 @@ concepts.json
 
 # Misc
 .DS_Store
+*.code-workspace
 raw/
 *.log
 requirements.txt
