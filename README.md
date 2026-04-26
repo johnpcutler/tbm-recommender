@@ -13,7 +13,7 @@ When you ask your AI agent about product management, org design, strategy, prior
 Clone this repo into your skills directory:
 
 ```bash
-git clone https://github.com/johnpcutler/tbm-brain.git ~/.cursor/skills/tbm-brain
+git clone https://github.com/johnpcutler/tbm-recommender.git ~/.cursor/skills/tbm-recommender
 ```
 
 The skill activates automatically when you mention TBM, John Cutler, or related topics.
@@ -21,7 +21,7 @@ The skill activates automatically when you mention TBM, John Cutler, or related 
 ### Claude Code
 
 ```bash
-git clone https://github.com/johnpcutler/tbm-brain.git ~/.claude/skills/tbm-brain
+git clone https://github.com/johnpcutler/tbm-recommender.git ~/.claude/skills/tbm-recommender
 ```
 
 ### Other agents
