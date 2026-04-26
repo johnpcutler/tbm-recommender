@@ -1,0 +1,29 @@
+# API keys and secrets
+.env
+
+# Python virtual environment
+.venv/
+
+# Builder pipeline (private)
+builder/
+
+# Cached classifications, embeddings
+cache/
+
+# Raw post HTML and source data
+posts/
+posts_new/
+posts.csv
+posts.json
+
+# One-off scripts and debug output
+delete_post_event_csvs.py
+classification_review.md
+concepts.json
+
+# Misc
+.DS_Store
+raw/
+*.log
+requirements.txt
+__pycache__/
