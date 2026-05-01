@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-04-26T08:21:02Z",
-  "post_count": 405,
-  "cluster_count": 21,
-  "git_sha": "d3c080168954",
+  "built_at": "2026-05-01T03:37:59Z",
+  "post_count": 428,
+  "cluster_count": 19,
+  "git_sha": "45e64c0aa938",
   "check_url": "https://raw.githubusercontent.com/johnpcutler/tbm-recommender/main/data/version.json"
 }
